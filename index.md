@@ -1,6 +1,7 @@
 # Diego Mojica's Portfolio 
 
 Diego Mojica's Portfolio I am a computer science major at California State University, Fullerton, expecting to graduate in May 2028.
+
 [Link to my GitHub profile](https://github.com/Diegomojica1)
 
 ## Favorite CPSC 120L Lab's
